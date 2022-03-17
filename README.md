@@ -4,7 +4,7 @@
 :mortar_board: I am a boolean student to become a full stack web developer. <br>
 
 I living in Sicily island <br>
-Hobbies: Nordic walk, Lino Banfi's films :laughing:, Art, Web Coding, Native Americans :heart:<br>
+Hobbies: Nordic Walk, Lino Banfi's movies :laughing:, Art, Web Coding, Native Americans :heart:<br>
 
 :art: Markup skills: html, css.<br>
 :nut_and_bolt: Basic skills on programming languages: #Javascript , Php.<br>
