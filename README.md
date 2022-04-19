@@ -7,7 +7,7 @@ I living in Sicily island <br>
 Hobbies: Nordic Walk, Lino Banfi's movies :laughing:, Art, Web Coding, Native Americans :heart:<br>
 
 :art: Markup skills: html, css.<br>
-:nut_and_bolt: Basic skills on programming languages: #Javascript , Php.<br>
+:nut_and_bolt: Basic skills on programming languages: Javascript , Php.<br>
 :books: Basic skills of frameworks: Bootstrap, Scss, VueJs, Laravel.<br>
 :package: Basic skills of packages: npm, nodejs.<br>
 :clipboard: Basic database skills: MySql.<br>
