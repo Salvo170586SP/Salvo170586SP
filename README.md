@@ -4,6 +4,8 @@
 :mortar_board: I am a boolean student to become a full stack web developer. <br>
 
 I living in Sicily island <br>
+🌱 I’m junior web development
+
 Hobbies: Nordic Walk, Lino Banfi's movies :laughing:, Art, Web Coding, Native Americans :heart:<br>
 
 My skills: <br>
