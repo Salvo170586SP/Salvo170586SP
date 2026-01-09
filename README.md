@@ -4,9 +4,9 @@
 :mortar_board: I am a boolean student to become a full stack web developer. <br>
 
 I living in Sicily island <br>
-🌱 I’m junior web development
+🌱 I’m web development
 I'm delving into the use of the Laravel framework and database manipulation, with an eye on layout.
-Below you will find my junior skills.
+Below you will find my skills.
 
 Hobbies: Nordic Walk, Art, Web Coding, Native Americans :heart:<br>
 
